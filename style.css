@@ -18,7 +18,11 @@ h1 {
     width: 50%;
     text-align: center;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 30px; 
+}
 
-    
+.btn {
+    padding: 15px 15px 15px 15px;
+    font-size: 20px;
+    text-align: center;
 }
