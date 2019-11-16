@@ -1,0 +1,24 @@
+h1 {
+    color: darkslategray;
+    background-color: whitesmoke;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 80px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 30px;
+}
+
+.content {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.textbox {
+    width: 50%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+    
+}
